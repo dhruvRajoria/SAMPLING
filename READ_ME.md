@@ -54,7 +54,7 @@ The following models were tested with each sampling technique:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/NavjotSingh2003/102217046_Sampling.git
+   git clone https://github.com/dhruvRajoria/SAMPLING/tree/main
    ```
 2. Open the Google Colab Notebook and upload the dataset.
 3. Follow the steps in the notebook to explore and apply the sampling techniques.
